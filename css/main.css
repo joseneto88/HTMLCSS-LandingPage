@@ -155,7 +155,8 @@ section {
 }
 
 .nav-list li a {
-    font: uppercase 16px;
+    font: uppercase;
+    font-size: 16px;
     font-weight: 700;
     letter-spacing: 0.2px;
 }
@@ -171,7 +172,7 @@ section {
     font-size: 18px;
 }
 
-.account li {
+.account a {
     font-size: 14px;
 }
 
