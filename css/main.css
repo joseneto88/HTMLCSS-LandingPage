@@ -155,8 +155,8 @@ section {
 }
 
 .nav-list li a {
-    font: uppercase;
     font-size: 16px;
+    text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 0.2px;
 }
@@ -183,7 +183,7 @@ section {
 
 .profile-pic img {
     border-radius: 100px;
-    max-width: 100px;
+    max-width: 100%;
 }
 
 
